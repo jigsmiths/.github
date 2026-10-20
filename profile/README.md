@@ -1,6 +1,6 @@
 # Jig Smiths
 
-Small, focused command-line tools, built to be fast.
+A jig is a tool that holds work in place while you shape it, and a jig smith is someone who makes them. Jig Smiths builds small tools that do one job well.
 
 ## Projects
 
